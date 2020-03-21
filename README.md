@@ -91,14 +91,6 @@ If you want to hide the view upon completion of the audio, use
 | avGravity     | Updates position of the visualizers - **top** and **bottom** (N/A for Blob and Blast Visualizers) | 
 | avWidth     | Describes the width of the line if `avType is outline`, in case of Bar Visualizer, defines width of the bar  | 
 
-## Contribute
-
-Found a bug or have an idea/feature request or any other help needed. Please suggest or report them [here](https://github.com/gauravk95/audio-visualizer-android/issues)
-
-I am always open to new suggestions and good contributions.
-
-Thanks to [@wangfengye](https://github.com/wangfengye) for **CircleLineVisualizer** and **HifiVisualizer**. 
-
 ## License:
 ```
     Copyright 2020 Happy
