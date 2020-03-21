@@ -1,25 +1,12 @@
 # Audio Visualizer
-[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
-[![Download](https://api.bintray.com/packages/gauravk95/maven-repo/audiovisualizer/images/download.svg) ](https://bintray.com/gauravk95/maven-repo/audiovisualizer/_latestVersion) 
-[![Build Status](https://travis-ci.org/gauravk95/audio-visualizer-android.svg?branch=master)](https://travis-ci.org/gauravk95/audio-visualizer-android) 
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Gaurav%20Kumar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7204 )
-[![Android Weekly]( https://img.shields.io/badge/Android%20Weekly-%23352-blue.svg )]( http://androidweekly.net/issues/issue-352 )
 
 A light-weight and easy-to-use Audio Visualizer for Android using the Android Canvas. 
 
-## Demos
+## Demo
 
-| CircleLine         | Hifi          |
-| ------------- |:-------------:| 
-| ![CircleLine](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/circle_line_sample.gif) |![Hifi](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/hifi_sample.gif)|
-
-| Blob          | Blast           |
-| ------------- |:-------------:| 
-| ![Blob](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/blob_sample.gif) |![Blast](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/blast_sample.gif)|
-
-| Wave          | Bar           |
-| ------------- |:-------------:| 
-| ![Wave](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/wave_sample.gif) |![Bar](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/bar_sample.gif)|
+| Bar           |
+|:-------------:| 
+|![Bar](https://raw.githubusercontent.com/gauravk95/audio-visualizer-android/master/samplegif/bar_sample.gif)|
 
 ## Available Visualizers:
 * **BlobVisualizer** - Gives blob like effect, good for low bpm audio
@@ -114,7 +101,7 @@ Thanks to [@wangfengye](https://github.com/wangfengye) for **CircleLineVisualize
 
 ## License:
 ```
-    Copyright 2018 Gaurav Kumar
+    Copyright 2020 Happy
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
